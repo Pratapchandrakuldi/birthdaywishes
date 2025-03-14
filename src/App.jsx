@@ -8,7 +8,7 @@ import { BdayCard, CakeCard, RituCard } from "../components/card";
 const imagesPath = "../images/";
 
 const images = [
-  `${imagesPath}card1.jpg`, `${imagesPath}card4.jpg`, `${imagesPath}card2.jpg`,
+  `../images/card1.jpg`, `${imagesPath}card4.jpg`, `${imagesPath}card2.jpg`,
   `${imagesPath}card3.jpg`, `${imagesPath}card5.jpg`, `${imagesPath}card6.jpg`,
   `${imagesPath}card9.jpg`, `${imagesPath}card14.jpg`, `${imagesPath}card15.jpg`,
   `${imagesPath}card10.jpg`, `${imagesPath}card11.jpg`
