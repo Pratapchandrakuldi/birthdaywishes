@@ -5,17 +5,17 @@ import React, { useState } from "react";
 import "./App.css";
 import { BdayCard, CakeCard, RituCard } from "../components/card";
 
-import card1 from "../assets/images/card1.jpg";
-import card2 from "../assets/images/card2.jpg";
-import card3 from "../assets/images/card3.jpg";
-import card4 from "../assets/images/card4.jpg";
-import card5 from "../assets/images/card5.jpg";
-import card6 from "../assets/images/card6.jpg";
-import card9 from "../assets/images/card9.jpg";
-import card10 from "../assets/images/card10.jpg";
-import card11 from "../assets/images/card11.jpg";
-import card14 from "../assets/images/card14.jpg";
-import card15 from "../assets/images/card15.jpg";
+import card1 from "../images/card1.jpg";
+import card2 from "../images/card2.jpg";
+import card3 from "../images/card3.jpg";
+import card4 from "../images/card4.jpg";
+import card5 from "../images/card5.jpg";
+import card6 from "../images/card6.jpg";
+import card9 from "../images/card9.jpg";
+import card10 from "../images/card10.jpg";
+import card11 from "../images/card11.jpg";
+import card14 from "../images/card14.jpg";
+import card15 from "../images/card15.jpg";
 
 const images = [card1, card2, card3, card4, card5, card6, card9, card10, card11, card14, card15];
 
